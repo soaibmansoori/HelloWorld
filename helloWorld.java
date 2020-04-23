@@ -7,5 +7,8 @@ class HelloWorld
 	public static void main(String args[]) 
 	{ 
 		System.out.println("Hello, World"); 
+		System.out.println("Hello, Woo"); 
+		System.out.println("Hello, Doo"); 
+		System.out.println("Hello, Looo"); 
 	} 
 } 
